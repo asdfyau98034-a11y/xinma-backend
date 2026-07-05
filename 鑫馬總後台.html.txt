@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>鑫馬國際物流系統</title>
+  <style>
+    body, html { margin: 0; padding: 0; overflow: hidden; height: 100%; background-color: #f4f6f9; }
+    .crop-container {
+      position: absolute;
+      top: -46px;                  /* 🚀 向上推擠 46 像素，消滅藍色警告橫條 */
+      left: 0;
+      width: 100vw;
+      height: calc(100vh + 46px);  /* 托高底部 */
+    }
+    iframe { width: 100%; height: 100%; border: none; }
+  </style>
+</head>
+<body>
+  <div class="crop-container">
+    <iframe src="https://script.google.com/macros/s/AKfycbx-pqRgqo4SNJWPU6fjkbky7XTRIf0WkO0Lw83Wm2bskXOif7n0UFRYLXi0W4vwcJJY/exec"></iframe>
+  </div>
+</body>
+</html>
